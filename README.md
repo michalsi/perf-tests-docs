@@ -49,6 +49,8 @@ Collection of Performance Tests related materials
 
  - [Jmeter on docker](https://github.com/deliverymind/useful-stuff/tree/master/jmeter-on-docker)
 
+### Other tools
+ - [wrk](https://github.com/wg/wrk) - HTTP benchmarking tool capable of generating significant load when run on a single multi-core CPU. 
 
 ### Tools Comparisons
  - [Gatling vs Jmeter](https://abstracta.us/performance-testing/gatling-vs-jmeter-findings/)
