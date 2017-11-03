@@ -55,6 +55,10 @@ Collection of Performance Tests related materials
  
 ### Other tools
  - [wrk](https://github.com/wg/wrk) - HTTP benchmarking tool capable of generating significant load when run on a single multi-core CPU. 
+ - [Taurus](https://github.com/Blazemeter/taurus)
+ - [Locust](https://locust.io/) - python
+ - [Gatling](https://gatling.io/) - Scala
+ - [Artillery](https://artillery.io/) - Javascript
 
 ### Tools Comparisons
  - [Gatling vs Jmeter](https://abstracta.us/performance-testing/gatling-vs-jmeter-findings/)
