@@ -7,6 +7,7 @@ Collection of Performance Tests related materials
 
  - [8 Tips to Decide the Number of Concurrent Users for Your Test](https://www.blazemeter.com/blog/8-tips-decide-number-concurrent-users-your-test?utm_source=blog&utm_medium=BM_blog&utm_campaign=jmeter-vs-locust-which-one-should-you-choose 
 )
+ - [Are you ready black friday 8 best load testing practices your app or site](https://www.blazemeter.com/blog/are-you-ready-black-friday-8-best-load-testing-practices-your-app-or-site) - quick intro to performance test
 
 ## Results Analysis
 
@@ -22,6 +23,7 @@ Collection of Performance Tests related materials
 #### Tests design
 
  - [Meter Ramp-Up - The Ultimate Guide](https://www.blazemeter.com/blog/jmeter-ramp-up-the-ultimate-guide)
+ - [Web Testing with JMeter: How To Properly Handle Embedded Resources in HTML Responses](https://www.blazemeter.com/blog/web-testing-jmeter-how-properly-handle-embedded-resources-html-responses)
 
 #### Jmeter Components
 
@@ -38,19 +40,19 @@ Collection of Performance Tests related materials
  - [Creating a New JMeter Test Purely in Java for Java Sampler](https://stackoverflow.com/questions/42344726/creating-a-new-jmeter-test-purely-in-java-for-java-sampler)
 
  - [JMeter Maven Plugin](https://www.blazemeter.com/blog/how-use-jmeter-maven-plugin)
+ 
+ #### Jmeter and CI
  - [JMeter – Continuous Performance Testing – JMeter + Maven](http://www.testautomationguru.com/jmeter-continuous-performance-testing-jmeter-maven/)
-
-
- - [Web Testing with JMeter: How To Properly Handle Embedded Resources in HTML Responses](https://www.blazemeter.com/blog/web-testing-jmeter-how-properly-handle-embedded-resources-html-responses)
-
- - [How to Monitor Your Server Health & Performance During a JMeter Load Test](https://www.blazemeter.com/blog/how-monitor-your-server-health-performance-during-jmeter-load-test)
-
- - https://jmeter-plugins.org/wiki/PerfMon/
 
  - [Jmeter on docker](https://github.com/deliverymind/useful-stuff/tree/master/jmeter-on-docker)
  
  - [Running JMmeter test - jenkins pipeline tutorial](https://www.blazemeter.com/blog/running-jmeter-test-jenkins-pipeline-tutorial)
 
+#### Monitoring
+ - [How to Monitor Your Server Health & Performance During a JMeter Load Test](https://www.blazemeter.com/blog/how-monitor-your-server-health-performance-during-jmeter-load-test)
+
+ - https://jmeter-plugins.org/wiki/PerfMon/
+ 
 ### Other tools
  - [wrk](https://github.com/wg/wrk) - HTTP benchmarking tool capable of generating significant load when run on a single multi-core CPU. 
 
