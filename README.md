@@ -62,7 +62,9 @@ Collection of Performance Tests related materials
  - [Artillery](https://artillery.io/) - Javascript
 
 ### Tools Comparisons
- - [Gatling vs Jmeter](https://abstracta.us/performance-testing/gatling-vs-jmeter-findings/)
+ - Gatling vs Jmeter
+    - [abstracta](https://abstracta.us/performance-testing/gatling-vs-jmeter-findings/)
+    - [octoperf](https://octoperf.com/blog/2015/06/08/jmeter-vs-gatling/)
  - [Locust vs Jmeter](https://www.blazemeter.com/blog/jmeter-vs-locust-which-one-should-you-choose)
  - [The Grinder vs Gatling vs Tsung vs JMeter](https://www.blazemeter.com/blog/open-source-load-testing-tools-which-one-should-you-use?utm_source=blog&utm_medium=BM_blog&utm_campaign=jmeter-vs-locust-which-one-should-you-choose)
 
