@@ -8,6 +8,8 @@ Collection of Performance Tests related materials
  - [8 Tips to Decide the Number of Concurrent Users for Your Test](https://www.blazemeter.com/blog/8-tips-decide-number-concurrent-users-your-test?utm_source=blog&utm_medium=BM_blog&utm_campaign=jmeter-vs-locust-which-one-should-you-choose 
 )
  - [Are you ready black friday 8 best load testing practices your app or site](https://www.blazemeter.com/blog/are-you-ready-black-friday-8-best-load-testing-practices-your-app-or-site) - quick intro to performance test
+ 
+ - [Think time in tests](https://octoperf.com/blog/2017/03/15/think-time/)
 
 ## Results Analysis
 
@@ -70,6 +72,20 @@ Collection of Performance Tests related materials
 
 
 ## Library
-
+### Books
  - [Performance Testing Guidance for Web Applications](https://msdn.microsoft.com/en-us/library/bb924375.aspx)
- - [Xceptance blog](https://blog.xceptance.com/category/performance/)
+
+### White Papers
+ - [How to Ensure Your Website or Mobile App Won’t Fail on PEAK DAYS](http://cdn2.hubspot.net/hub/208250/file-2347246121-pdf/LoadTestingHolidaysWhitepaper_.pdf)
+ - [How Shift-Left Performance Testing from BlazeMeter Enables Substantial Cost Savings](https://cdn2.hubspot.net/hubfs/208250/TEI%20CA%20BlazeMeter.pdf)
+ - [Load Testing & APM: A Guide to Accelerating Performance Tuning and Troubleshooting](http://cdn2.hubspot.net/hubfs/208250/Whitepapers/LT-APM_FinalVersion.pdf)
+ - [Continuous Testing In Practice - Completing the Continuous Delivery Process](http://cdn2.hubspot.net/hub/208250/file-2411660713-pdf/websol/Continuous_Testing__Whitepaper.pdf)
+  
+### Blogs
+ - [Blazemeter](https://www.blazemeter.com/blog)
+ - [Xceptance](https://blog.xceptance.com/category/performance/)
+ - [octoperf](https://octoperf.com/categories/load-testing/)
+ 
+ ### Videos
+ - [Blazemeter resources](https://www.blazemeter.com/resources)
+ 
