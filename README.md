@@ -29,6 +29,7 @@ Collection of Performance Tests related materials
 
 #### Jmeter Components
 
+ - [jmeter tutorial on Guru99](https://www.guru99.com/jmeter-tutorials.html)
  - [Logs, vars, props](https://jmetervn.com/2016/12/05/jsr223-with-groovy-variables-part-1/)
 [JSR223 with Groovy: Variables (Part 2) - Sampler, ctx](https://jmetervn.com/2016/12/20/jsr223-with-groovy-variables-part-2/) 
  - [Parameters,Script File](https://jmetervn.com/2017/01/13/jsr223-with-groovy-variables-part-3/)
