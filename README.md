@@ -11,7 +11,11 @@ Collection of Performance Tests related materials
  
  - [Think time in tests](https://octoperf.com/blog/2017/03/15/think-time/)
  
- - [performance testing rookie mistakes](http://performanceengineeringwisdom.com/performance-testing-rookie-mistakes/)
+ - Making your performance engineering more efficient
+    - [part 1](https://www.blazemeter.com/blog/testing-making-your-performance-engineering-more-efficient-part-1)
+    - [part 2](https://www.blazemeter.com/blog/how-to-make-your-performance-engineering-more-efficient-part-2)
+    - [part 3](https://www.blazemeter.com/blog/making-your-performance-engineering-more-efficient-part-3)
+    - [performance testing rookie mistakes](http://performanceengineeringwisdom.com/performance-testing-rookie-mistakes/)
 
 ## Results Analysis
 
@@ -72,6 +76,7 @@ Collection of Performance Tests related materials
     - [octoperf](https://octoperf.com/blog/2015/06/08/jmeter-vs-gatling/)
  - [Locust vs Jmeter](https://www.blazemeter.com/blog/jmeter-vs-locust-which-one-should-you-choose)
  - [The Grinder vs Gatling vs Tsung vs JMeter](https://www.blazemeter.com/blog/open-source-load-testing-tools-which-one-should-you-use?utm_source=blog&utm_medium=BM_blog&utm_campaign=jmeter-vs-locust-which-one-should-you-choose)
+ - [open source performance testing tools](https://www.joecolantonio.com/2017/07/18/open-source-performance-testing-tools/)
 
 
 ## Library
