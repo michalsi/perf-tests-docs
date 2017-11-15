@@ -10,6 +10,8 @@ Collection of Performance Tests related materials
  - [Are you ready black friday 8 best load testing practices your app or site](https://www.blazemeter.com/blog/are-you-ready-black-friday-8-best-load-testing-practices-your-app-or-site) - quick intro to performance test
  
  - [Think time in tests](https://octoperf.com/blog/2017/03/15/think-time/)
+ 
+ - [performance testing rookie mistakes](http://performanceengineeringwisdom.com/performance-testing-rookie-mistakes/)
 
 ## Results Analysis
 
@@ -86,6 +88,7 @@ Collection of Performance Tests related materials
  - [Blazemeter](https://www.blazemeter.com/blog)
  - [Xceptance](https://blog.xceptance.com/category/performance/)
  - [octoperf](https://octoperf.com/categories/load-testing/)
+ - [performance wisdom](http://performanceengineeringwisdom.com/performancewisdomblog/)
  
  ### Videos
  - [Blazemeter resources](https://www.blazemeter.com/resources)
