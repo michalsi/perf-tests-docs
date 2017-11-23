@@ -23,6 +23,8 @@ Collection of Performance Tests related materials
  - [Performance Test Reporting Fundamentals](https://msdn.microsoft.com/en-us/library/bb924371.aspx)
 
  - [Dashboard / report analyzer for load testing with JMeter](https://github.com/innogames/JMeter-Control-Center)
+ 
+ - [2 Techniques to Get JMeter Test Results in non-GUI mode](https://www.blazemeter.com/blog/top-two-techniques-get-jmeter-test-results-non-gui-mode) 
 
 ## Load generation Tools
 
