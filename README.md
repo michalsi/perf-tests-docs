@@ -64,6 +64,8 @@ Collection of Performance Tests related materials
 
  - https://jmeter-plugins.org/wiki/PerfMon/
  
+ - [Cassandra performance monitoring](https://cassandra-zone.com/performance-monitoring/)
+ 
 ### Other tools
  - [wrk](https://github.com/wg/wrk) - HTTP benchmarking tool capable of generating significant load when run on a single multi-core CPU. 
  - [Taurus](https://github.com/Blazemeter/taurus)
