@@ -61,10 +61,11 @@ Collection of Performance Tests related materials
 
 #### Monitoring
  - [How to Monitor Your Server Health & Performance During a JMeter Load Test](https://www.blazemeter.com/blog/how-monitor-your-server-health-performance-during-jmeter-load-test)
-
  - https://jmeter-plugins.org/wiki/PerfMon/
- 
  - [Cassandra performance monitoring](https://cassandra-zone.com/performance-monitoring/)
+ - [Measure Anything, Measure Everything](https://codeascraft.com/2011/02/15/measure-anything-measure-everything/)
+ - [Actionable Metrics - Enabling Decision-Making in Netﬂix’s Decentralized Environment(video+slides)](https://www.infoq.com/presentations/Netflix-Metrics)
+ - [Prometheus: Monitoring at SoundCloud](https://developers.soundcloud.com/blog/prometheus-monitoring-at-soundcloud)
  
 ### Other tools
  - [wrk](https://github.com/wg/wrk) - HTTP benchmarking tool capable of generating significant load when run on a single multi-core CPU. 
@@ -73,6 +74,8 @@ Collection of Performance Tests related materials
  - [Locust](https://locust.io/) - python
  - [Gatling](https://gatling.io/) - Scala
  - [Artillery](https://artillery.io/) - Javascript
+ - [k6](https://k6.io/) - "A developer-centric load testing tool" - Scripting in Javascript ES2015/ES6
+    - https://github.com/loadimpact/postman-to-k6 - convert Postman collections to k6
 
 ### Tools Comparisons
  - Gatling vs Jmeter
@@ -81,6 +84,7 @@ Collection of Performance Tests related materials
  - [Locust vs Jmeter](https://www.blazemeter.com/blog/jmeter-vs-locust-which-one-should-you-choose)
  - [The Grinder vs Gatling vs Tsung vs JMeter](https://www.blazemeter.com/blog/open-source-load-testing-tools-which-one-should-you-use?utm_source=blog&utm_medium=BM_blog&utm_campaign=jmeter-vs-locust-which-one-should-you-choose)
  - [open source performance testing tools](https://www.joecolantonio.com/2017/07/18/open-source-performance-testing-tools/)
+ - [Performance: which testing tool and why?](https://club.ministryoftesting.com/t/performance-which-testing-tool-and-why/634/12)
 
 
 ## Library
