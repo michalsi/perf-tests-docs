@@ -9,7 +9,7 @@ Collection of Performance Tests related materials
 )
  - [Are you ready black friday 8 best load testing practices your app or site](https://www.blazemeter.com/blog/are-you-ready-black-friday-8-best-load-testing-practices-your-app-or-site) - quick intro to performance test
  - [8 Load Testing Steps You Must Take Before the UK Elections](https://www.blazemeter.com/blog/8-load-testing-steps-you-must-take-before-the-uk-elections) - short explanation of steps required when working with performance tests.
- - [Lesons lernt from performance testing 2016 olympics](http://blog.loadimpact.com/performance-testing-2016-olympics)
+ - [Lessons lernt from performance testing 2016 olympics](http://blog.loadimpact.com/performance-testing-2016-olympics)
  - [Think time in tests](https://octoperf.com/blog/2017/03/15/think-time/)
  
  - Making your performance engineering more efficient
