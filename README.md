@@ -110,3 +110,5 @@ Collection of Performance Tests related materials
  ### Videos
  - [Blazemeter resources](https://www.blazemeter.com/resources)
  
+ ### Workshops
+ - [How To Build A Performance Testing Stack From Scratch](https://dojo.ministryoftesting.com/series/how-to-build-a-performance-testing-stack-from-scratch)
