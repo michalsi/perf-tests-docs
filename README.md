@@ -60,16 +60,6 @@ Collection of Performance Tests related materials
  
  - [Running JMmeter test - jenkins pipeline tutorial](https://www.blazemeter.com/blog/running-jmeter-test-jenkins-pipeline-tutorial)
  
- ### Monitoring
-  - [How to Monitor Your Server Health & Performance During a JMeter Load Test](https://www.blazemeter.com/blog/how-monitor-your-server-health-performance-during-jmeter-load-test)
- - https://jmeter-plugins.org/wiki/PerfMon/
- - [Cassandra performance monitoring](https://cassandra-zone.com/performance-monitoring/)
- - [Measure Anything, Measure Everything](https://codeascraft.com/2011/02/15/measure-anything-measure-everything/)
- - [Actionable Metrics - Enabling Decision-Making in Netﬂix’s Decentralized Environment(video+slides)](https://www.infoq.com/presentations/Netflix-Metrics)
- - [Prometheus: Monitoring at SoundCloud](https://developers.soundcloud.com/blog/prometheus-monitoring-at-soundcloud)
- - [jprofiler - profiling application on the JVM](https://www.ej-technologies.com/products/jprofiler/overview.html)
- - [perfino - JVM monitoring for production servers](https://www.ej-technologies.com/products/perfino/overview.html)
- 
 ### Other tools
  - [wrk](https://github.com/wg/wrk) - HTTP benchmarking tool capable of generating significant load when run on a single multi-core CPU. 
  - [Taurus](https://github.com/Blazemeter/taurus)
@@ -92,6 +82,16 @@ Collection of Performance Tests related materials
  - [Open Source Load Testing Tool Review - Benchmarks- by loadinpact](http://blog.loadimpact.com/open-source-load-testing-tool-benchmarks)
  - [Open Source Load Testing Tool Benchmarks V2 - by loadinpact](http://blog.loadimpact.com/open-source-load-testing-tool-benchmarks-v2)
    - [Spreadsheets with results](https://docs.google.com/spreadsheets/d/13ZCxDxy06LlhDD0vuys9R04ppGv787c7DkZT1XO5-Gc/edit#gid=505204278)
+
+ ## Monitoring
+  - [How to Monitor Your Server Health & Performance During a JMeter Load Test](https://www.blazemeter.com/blog/how-monitor-your-server-health-performance-during-jmeter-load-test)
+ - https://jmeter-plugins.org/wiki/PerfMon/
+ - [Cassandra performance monitoring](https://cassandra-zone.com/performance-monitoring/)
+ - [Measure Anything, Measure Everything](https://codeascraft.com/2011/02/15/measure-anything-measure-everything/)
+ - [Actionable Metrics - Enabling Decision-Making in Netﬂix’s Decentralized Environment(video+slides)](https://www.infoq.com/presentations/Netflix-Metrics)
+ - [Prometheus: Monitoring at SoundCloud](https://developers.soundcloud.com/blog/prometheus-monitoring-at-soundcloud)
+ - [jprofiler - profiling application on the JVM](https://www.ej-technologies.com/products/jprofiler/overview.html)
+ - [perfino - JVM monitoring for production servers](https://www.ej-technologies.com/products/perfino/overview.html)
 
 ## Library
 ### Books
