@@ -90,9 +90,13 @@ Collection of Performance Tests related materials
  - [Measure Anything, Measure Everything](https://codeascraft.com/2011/02/15/measure-anything-measure-everything/)
  - [Actionable Metrics - Enabling Decision-Making in Netﬂix’s Decentralized Environment(video+slides)](https://www.infoq.com/presentations/Netflix-Metrics)
  - [Prometheus: Monitoring at SoundCloud](https://developers.soundcloud.com/blog/prometheus-monitoring-at-soundcloud)
- - [jprofiler - profiling application on the JVM](https://www.ej-technologies.com/products/jprofiler/overview.html)
- - [perfino - JVM monitoring for production servers](https://www.ej-technologies.com/products/perfino/overview.html)
  - [nmon - performance Monitor for Linux ](http://nmon.sourceforge.net/pmwiki.php)
+ 
+ ### Java Profilers
+ - [http://www.baeldung.com/java-profilers](A Guide to Java Profilers)
+ - [Top 5 Java Profilers Revealed: Real world data with VisualVM, JProfiler, Java Mission Control, YourKit and Custom tooling](https://zeroturnaround.com/rebellabs/top-5-java-profilers-revealed-real-world-data-with-visualvm-jprofiler-java-mission-control-yourkit-and-custom-tooling/)
+ - [List of Java Profilers: 3 Different Types and Why You Need All of Them](https://stackify.com/java-profilers-3-types/)
+
 
 ## Library
 ### Books
