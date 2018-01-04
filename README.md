@@ -54,6 +54,8 @@ Collection of Performance Tests related materials
 
  - [JMeter Maven Plugin](https://www.blazemeter.com/blog/how-use-jmeter-maven-plugin)
  
+ - [Beanshell vs JSR223 vs Java JMeter Scripting](https://www.blazemeter.com/blog/beanshell-vs-jsr223-vs-java-jmeter-scripting-its-performance)
+ 
  #### Jmeter and CI
  - [JMeter – Continuous Performance Testing – JMeter + Maven](http://www.testautomationguru.com/jmeter-continuous-performance-testing-jmeter-maven/)
 
