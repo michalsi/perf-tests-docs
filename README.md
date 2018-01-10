@@ -27,6 +27,8 @@ Collection of Performance Tests related materials
  
  - [2 Techniques to Get JMeter Test Results in non-GUI mode](https://www.blazemeter.com/blog/top-two-techniques-get-jmeter-test-results-non-gui-mode)
  - [BlazeMeter’s Sense - service for storing and analysing performance test results](https://sense.blazemeter.com/)
+ 
+
 
 ## Load generation Tools
 
@@ -55,6 +57,12 @@ Collection of Performance Tests related materials
  - [JMeter Maven Plugin](https://www.blazemeter.com/blog/how-use-jmeter-maven-plugin)
  
  - [Beanshell vs JSR223 vs Java JMeter Scripting](https://www.blazemeter.com/blog/beanshell-vs-jsr223-vs-java-jmeter-scripting-its-performance)
+ 
+ #### JMeter listeners
+  - [Listeners with Basic Displays](https://www.blazemeter.com/blog/jmeter-listeners-part-1-basic-display-formats)
+  - [Listeners that Aggregate Data Samples](https://www.blazemeter.com/blog/jmeter-listeners-part-2-listeners-aggregate-data-samples)
+  - [Listeners that Calculate Distribution Metrics](https://www.blazemeter.com/blog/jmeter-listeners-part-3-listeners-calculate-distribution-metrics)
+  - [Listeners that Support Scripting & Enable Test and System Management](https://www.blazemeter.com/blog/jmeter-listeners-part-4-listeners-support-scripting-enable-test-and-system-management)
  
  #### Jmeter and CI
  - [JMeter – Continuous Performance Testing – JMeter + Maven](http://www.testautomationguru.com/jmeter-continuous-performance-testing-jmeter-maven/)
