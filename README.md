@@ -73,12 +73,16 @@ Collection of Performance Tests related materials
  
  - [Running JMmeter test - jenkins pipeline tutorial](https://www.blazemeter.com/blog/running-jmeter-test-jenkins-pipeline-tutorial)
  
+### Gatling
+- [Gatling](https://gatling.io/) - Scala
+- [Gatling introduction](http://james-willett.com/2017/08/gatling-introduction/)
+
 ### Other tools
  - [wrk](https://github.com/wg/wrk) - HTTP benchmarking tool capable of generating significant load when run on a single multi-core CPU. 
  - [Taurus](https://github.com/Blazemeter/taurus)
     - [gettaurus](http://gettaurus.org/)
  - [Locust](https://locust.io/) - python
- - [Gatling](https://gatling.io/) - Scala
+
  - [Artillery](https://artillery.io/) - Javascript
  - [k6](https://k6.io/) - "A developer-centric load testing tool" - Scripting in Javascript ES2015/ES6
     - https://github.com/loadimpact/postman-to-k6 - convert Postman collections to k6
@@ -108,7 +112,7 @@ Collection of Performance Tests related materials
  - [Overload𝛃 – performance analytics server](https://overload.yandex.net/login/?next=/)
  
  ### Java Profilers
- - [http://www.baeldung.com/java-profilers](A Guide to Java Profilers)
+ - [A Guide to Java Profilers](http://www.baeldung.com/java-profilers)
  - [Top 5 Java Profilers Revealed: Real world data with VisualVM, JProfiler, Java Mission Control, YourKit and Custom tooling](https://zeroturnaround.com/rebellabs/top-5-java-profilers-revealed-real-world-data-with-visualvm-jprofiler-java-mission-control-yourkit-and-custom-tooling/)
  - [List of Java Profilers: 3 Different Types and Why You Need All of Them](https://stackify.com/java-profilers-3-types/)
 
