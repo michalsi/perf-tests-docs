@@ -18,6 +18,8 @@ Collection of Performance Tests related materials
     - [part 3](https://www.blazemeter.com/blog/making-your-performance-engineering-more-efficient-part-3)
     - [performance testing rookie mistakes](http://performanceengineeringwisdom.com/performance-testing-rookie-mistakes/)
 
+- [Six Design Principles of Continuous Performance Testing](https://blog.griddynamics.com/six-design-principles-of-continuous-performance-testing/)
+
 ## Results Analysis
 
  - [The art of reading performance test charts](https://blog.xceptance.com/2013/04/22/the-art-of-reading-performance-test-charts/)
