@@ -68,10 +68,9 @@ Collection of Performance Tests related materials
  
  #### Jmeter and CI
  - [JMeter – Continuous Performance Testing – JMeter + Maven](http://www.testautomationguru.com/jmeter-continuous-performance-testing-jmeter-maven/)
-
  - [Jmeter on docker](https://github.com/deliverymind/useful-stuff/tree/master/jmeter-on-docker)
- 
  - [Running JMmeter test - jenkins pipeline tutorial](https://www.blazemeter.com/blog/running-jmeter-test-jenkins-pipeline-tutorial)
+ - [Configure Jenkins to Run and Show JMeter Tests](http://www.baeldung.com/jenkins-and-jmeter)
  
 ### Gatling
 - [Gatling](https://gatling.io/) - Scala
@@ -100,6 +99,7 @@ Collection of Performance Tests related materials
  - [Open Source Load Testing Tool Review - Benchmarks- by loadinpact](http://blog.loadimpact.com/open-source-load-testing-tool-benchmarks)
  - [Open Source Load Testing Tool Benchmarks V2 - by loadinpact](http://blog.loadimpact.com/open-source-load-testing-tool-benchmarks-v2)
    - [Spreadsheets with results](https://docs.google.com/spreadsheets/d/13ZCxDxy06LlhDD0vuys9R04ppGv787c7DkZT1XO5-Gc/edit#gid=505204278)
+   -[JMeter vs Neoload vs HP Load Runner](https://www.ubik-ingenierie.com/blog/apache-jmeter-vs-neoload-vs-hp-load-runner/)
 
  ## Monitoring
   - [How to Monitor Your Server Health & Performance During a JMeter Load Test](https://www.blazemeter.com/blog/how-monitor-your-server-health-performance-during-jmeter-load-test)
