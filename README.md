@@ -20,6 +20,8 @@ Collection of Performance Tests related materials
 
 - [Six Design Principles of Continuous Performance Testing](https://blog.griddynamics.com/six-design-principles-of-continuous-performance-testing/)
 
+- [Kainos ODP - Logging & Performance testing](https://github.com/KainosSoftwareLtd/gov-odp/wiki/Logging-&-Performance-testing)
+
 ## Results Analysis
 
  - [The art of reading performance test charts](https://blog.xceptance.com/2013/04/22/the-art-of-reading-performance-test-charts/)
