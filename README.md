@@ -22,6 +22,8 @@ Collection of Performance Tests related materials
 
 - [Kainos ODP - Logging & Performance testing](https://github.com/KainosSoftwareLtd/gov-odp/wiki/Logging-&-Performance-testing)
 
+-[MS Visual Studio - Load Testing resources](https://docs.microsoft.com/en-us/vsts/load-test/)
+
 ## Results Analysis
 
  - [The art of reading performance test charts](https://blog.xceptance.com/2013/04/22/the-art-of-reading-performance-test-charts/)
