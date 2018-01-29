@@ -62,9 +62,10 @@ Collection of Performance Tests related materials
 
  - [Creating a New JMeter Test Purely in Java for Java Sampler](https://stackoverflow.com/questions/42344726/creating-a-new-jmeter-test-purely-in-java-for-java-sampler)
 
- - [JMeter Maven Plugin](https://www.blazemeter.com/blog/how-use-jmeter-maven-plugin)
- 
  - [Beanshell vs JSR223 vs Java JMeter Scripting](https://www.blazemeter.com/blog/beanshell-vs-jsr223-vs-java-jmeter-scripting-its-performance)
+
+ - [JMeter Maven Plugin](https://www.blazemeter.com/blog/how-use-jmeter-maven-plugin)
+ - [Commercial and Open Source JMeter Plugins](http://www.softwaretestingmagazine.com/tools/jmeter-plugins/)
  
  #### JMeter listeners
   - [Listeners with Basic Displays](https://www.blazemeter.com/blog/jmeter-listeners-part-1-basic-display-formats)
