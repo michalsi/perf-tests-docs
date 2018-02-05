@@ -147,6 +147,7 @@ Collection of Performance Tests related materials
  ### Podcasts 📢
  - [PurePerformance on Dynatrace](https://www.dynatrace.com/community/pureperformance/)
    - [PurePerformance - mirrored on spreaker](https://www.spreaker.com/show/pureperformance)
+ - [PurePerformance Cafes](https://www.spreaker.com/show/pureperformance-cafe) - short interviews with practitioners and thought leaders from around the globe
  
  ### Workshops 🎓
  - [How To Build A Performance Testing Stack From Scratch](https://dojo.ministryoftesting.com/series/how-to-build-a-performance-testing-stack-from-scratch)
