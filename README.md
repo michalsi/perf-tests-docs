@@ -1,4 +1,4 @@
-# perf-tests-docs
+# perf-tests-docs 🚀
 Collection of Performance Tests related materials 
 
 ## Performance Testing Theory
@@ -126,23 +126,26 @@ Collection of Performance Tests related materials
 
 
 ## Library
-### Books
+### Books 📖
  - [Performance Testing Guidance for Web Applications](https://msdn.microsoft.com/en-us/library/bb924375.aspx)
 
-### White Papers
+### White Papers 📄
  - [How to Ensure Your Website or Mobile App Won’t Fail on PEAK DAYS](http://cdn2.hubspot.net/hub/208250/file-2347246121-pdf/LoadTestingHolidaysWhitepaper_.pdf)
  - [How Shift-Left Performance Testing from BlazeMeter Enables Substantial Cost Savings](https://cdn2.hubspot.net/hubfs/208250/TEI%20CA%20BlazeMeter.pdf)
  - [Load Testing & APM: A Guide to Accelerating Performance Tuning and Troubleshooting](http://cdn2.hubspot.net/hubfs/208250/Whitepapers/LT-APM_FinalVersion.pdf)
  - [Continuous Testing In Practice - Completing the Continuous Delivery Process](http://cdn2.hubspot.net/hub/208250/file-2411660713-pdf/websol/Continuous_Testing__Whitepaper.pdf)
   
-### Blogs
+### Blogs 📝
  - [Blazemeter](https://www.blazemeter.com/blog)
  - [Xceptance](https://blog.xceptance.com/category/performance/)
  - [octoperf](https://octoperf.com/categories/load-testing/)
  - [performance wisdom](http://performanceengineeringwisdom.com/performancewisdomblog/)
  
- ### Videos
+ ### Videos 📺
  - [Blazemeter resources](https://www.blazemeter.com/resources)
  
- ### Workshops
+ ### Podcasts 📢
+ - [PurePerformance](https://www.spreaker.com/show/pureperformance)
+ 
+ ### Workshops 🎓
  - [How To Build A Performance Testing Stack From Scratch](https://dojo.ministryoftesting.com/series/how-to-build-a-performance-testing-stack-from-scratch)
