@@ -145,7 +145,8 @@ Collection of Performance Tests related materials
  - [Blazemeter resources](https://www.blazemeter.com/resources)
  
  ### Podcasts 📢
- - [PurePerformance](https://www.spreaker.com/show/pureperformance)
+ - [PurePerformance on Dynatrace](https://www.dynatrace.com/community/pureperformance/)
+   - [PurePerformance - mirrored on spreaker](https://www.spreaker.com/show/pureperformance)
  
  ### Workshops 🎓
  - [How To Build A Performance Testing Stack From Scratch](https://dojo.ministryoftesting.com/series/how-to-build-a-performance-testing-stack-from-scratch)
