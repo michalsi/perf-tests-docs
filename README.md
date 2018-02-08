@@ -152,8 +152,11 @@ Collection of Performance Tests related materials
  
  ### Podcasts 📢
  - [PurePerformance on Dynatrace](https://www.dynatrace.com/community/pureperformance/)
-   - [PurePerformance - mirrored on spreaker](https://www.spreaker.com/show/pureperformance)
+   - [PurePerformance](https://www.spreaker.com/show/pureperformance) - hosted on spreaker
  - [PurePerformance Cafes](https://www.spreaker.com/show/pureperformance-cafe) - short interviews with practitioners and thought leaders from around the globe
+ - [PerfBytes](http://www.perfbytes.com/)
+   - [PerfBytes](https://www.spreaker.com/show/perfbytes)- PerfBytes hosted on spreaker
+   - [News of The Damned](https://www.spreaker.com/show/news-of-the-damned) - analysis on globally crashing websites and system failures.Part of PerfBytes - hosted on spreaker.
  
  ### Workshops 🎓
  - [How To Build A Performance Testing Stack From Scratch](https://dojo.ministryoftesting.com/series/how-to-build-a-performance-testing-stack-from-scratch)
