@@ -21,6 +21,7 @@ Collection of Performance Tests related materials
 - [Six Design Principles of Continuous Performance Testing](https://blog.griddynamics.com/six-design-principles-of-continuous-performance-testing/)
 
 - [Kainos ODP - Logging & Performance testing](https://github.com/KainosSoftwareLtd/gov-odp/wiki/Logging-&-Performance-testing)
+- [A Practical Guide to Performance Testing](./docs/WP_-_A_Practical_Guide_to_Performance_Testing.pdf) by Neotys
 
 ### Collection of materials
 - [MS Visual Studio - Load Testing resources](https://docs.microsoft.com/en-us/vsts/load-test/)
@@ -134,6 +135,10 @@ Collection of Performance Tests related materials
  - [How Shift-Left Performance Testing from BlazeMeter Enables Substantial Cost Savings](https://cdn2.hubspot.net/hubfs/208250/TEI%20CA%20BlazeMeter.pdf)
  - [Load Testing & APM: A Guide to Accelerating Performance Tuning and Troubleshooting](http://cdn2.hubspot.net/hubfs/208250/Whitepapers/LT-APM_FinalVersion.pdf)
  - [Continuous Testing In Practice - Completing the Continuous Delivery Process](http://cdn2.hubspot.net/hub/208250/file-2411660713-pdf/websol/Continuous_Testing__Whitepaper.pdf)
+
+### Webinars 🗃
+ - [3 Keys to Performance Testing at the Speed of Agile](https://onlinexperiences.com/scripts/Server.nxp?LASCmd=L:0&AI=1&ShowKey=47184&LoginType=0&InitialDisplay=1&ClientBrowser=0&DisplayItem=NULL&LangLocaleID=0&SSO=1&RFR=NULL&RandomValue=1518095606729) by Neotys
+     - [slides deck](./docs/3_Keys_to_Performance_Testing_at_the_Speed_of_Agile.pdf)
   
 ### Blogs 📝
  - [Blazemeter](https://www.blazemeter.com/blog)
