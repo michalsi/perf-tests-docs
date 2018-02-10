@@ -31,6 +31,7 @@ Collection of Performance Tests related materials
 - [performance testing mindmap + list of resources](https://github.com/mgasiorowski/performance_testing_mindmap)
 
 ## Client side perfrormance
+
 - [Rendering Metrics](https://speedcurve.com/blog/rendering-metrics/)
 - [SpeedCurve blog](https://speedcurve.com/blog/)
 - [Web berformance budget](https://www.keycdn.com/blog/web-performance-budget/)
