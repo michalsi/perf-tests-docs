@@ -24,7 +24,7 @@ Collection of Performance Tests related materials
 - [A Practical Guide to Performance Testing](./docs/WP_-_A_Practical_Guide_to_Performance_Testing.pdf) by Neotys
 
 ### Perfrormance Testing in the team
-[https://speedcurve.com/blog/web-performance-culture/](https://speedcurve.com/blog/web-performance-culture/)
+[web performance culture/](https://speedcurve.com/blog/web-performance-culture/)
 
 ### Collection of materials
 - [MS Visual Studio - Load Testing resources](https://docs.microsoft.com/en-us/vsts/load-test/)
