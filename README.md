@@ -21,12 +21,20 @@ Collection of Performance Tests related materials
 - [Six Design Principles of Continuous Performance Testing](https://blog.griddynamics.com/six-design-principles-of-continuous-performance-testing/)
 
 - [Kainos ODP - Logging & Performance testing](https://github.com/KainosSoftwareLtd/gov-odp/wiki/Logging-&-Performance-testing)
-
 - [A Practical Guide to Performance Testing](./docs/WP_-_A_Practical_Guide_to_Performance_Testing.pdf) by Neotys
+
+### Perfrormance Testing in the team
+[https://speedcurve.com/blog/web-performance-culture/](https://speedcurve.com/blog/web-performance-culture/)
 
 ### Collection of materials
 - [MS Visual Studio - Load Testing resources](https://docs.microsoft.com/en-us/vsts/load-test/)
 - [performance testing mindmap + list of resources](https://github.com/mgasiorowski/performance_testing_mindmap)
+
+## Client side perfrormance
+- [Rendering Metrics](https://speedcurve.com/blog/rendering-metrics/)
+- [SpeedCurve blog](https://speedcurve.com/blog/)
+- [Web berformance budget](https://www.keycdn.com/blog/web-performance-budget/)
+
 
 ## Results Analysis
 
@@ -129,7 +137,14 @@ Collection of Performance Tests related materials
 
 ## Library
 ### Books 📖
+#### Online
  - [Performance Testing Guidance for Web Applications](https://msdn.microsoft.com/en-us/library/bb924375.aspx)
+
+#### Paperback 
+ - [Java Performance](https://books.google.co.uk/books/about/Java_Performance.html?id=7mktLCw0E2IC&source=kp_cover&redir_esc=y)
+   -[review](https://dzone.com/articles/book-review-java-performance)
+ - [High Performance Web Sites: Essential Knowledge for Front-End Engineers](https://www.amazon.com/dp/0596529309?tag=stevsoud-20&camp=14573&creative=327641&linkCode=as1&creativeASIN=0596529309&adid=00GNM1ZWW77KSD0RERXN&)
+ - [Even Faster Web Sites: Performance Best Practices for Web Developers](https://www.amazon.com/dp/0596522304?tag=stevsoud-20&camp=213381&creative=390973&linkCode=as4&creativeASIN=0596522304&adid=09TZDJ7Z5GDMJPAM6XC6&)
 
 ### White Papers 📄
  - [How to Ensure Your Website or Mobile App Won’t Fail on PEAK DAYS](http://cdn2.hubspot.net/hub/208250/file-2347246121-pdf/LoadTestingHolidaysWhitepaper_.pdf)
@@ -149,6 +164,8 @@ Collection of Performance Tests related materials
  
  ### Videos 📺
  - [Blazemeter resources](https://www.blazemeter.com/resources)
+ - [Dynatrace Online Performance Clinic](https://community.dynatrace.com/community/pages/viewpage.action?pageId=178101202)
+    - [Dynatrace Performance Clinic on YouTube](https://www.youtube.com/playlist?list=PLqt2rd0eew1bmDn54E2_M2uvbhm_WxY_6)
  
  ### Podcasts 📢
  - [PurePerformance on Dynatrace](https://www.dynatrace.com/community/pureperformance/)
