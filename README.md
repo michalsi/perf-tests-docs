@@ -145,6 +145,7 @@ Collection of Performance Tests related materials
  - [Java Performance](https://books.google.co.uk/books/about/Java_Performance.html?id=7mktLCw0E2IC&source=kp_cover&redir_esc=y)
    -[review](https://dzone.com/articles/book-review-java-performance)
  - [High Performance Web Sites: Essential Knowledge for Front-End Engineers](https://www.amazon.com/dp/0596529309?tag=stevsoud-20&camp=14573&creative=327641&linkCode=as1&creativeASIN=0596529309&adid=00GNM1ZWW77KSD0RERXN&)
+   -[companion site for the book](https://stevesouders.com/hpws/rules.php)
  - [Even Faster Web Sites: Performance Best Practices for Web Developers](https://www.amazon.com/dp/0596522304?tag=stevsoud-20&camp=213381&creative=390973&linkCode=as4&creativeASIN=0596522304&adid=09TZDJ7Z5GDMJPAM6XC6&)
 
 ### White Papers 📄
