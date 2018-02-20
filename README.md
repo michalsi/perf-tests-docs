@@ -9,6 +9,7 @@ Collection of Performance Tests related materials
 )
  - [Are you ready black friday 8 best load testing practices your app or site](https://www.blazemeter.com/blog/are-you-ready-black-friday-8-best-load-testing-practices-your-app-or-site) - quick intro to performance tests
  - [8 Load Testing Steps You Must Take Before the UK Elections](https://www.blazemeter.com/blog/8-load-testing-steps-you-must-take-before-the-uk-elections) - short explanation of steps required when working with performance tests.
+ - [A Quick Start Guide To Learning Performance Testing](https://dojo.ministryoftesting.com/lessons/a-quick-start-guide-to-learning-performance-testing)
  - [Lessons lernt from performance testing 2016 olympics](http://blog.loadimpact.com/performance-testing-2016-olympics)
  - [Think time in tests](https://octoperf.com/blog/2017/03/15/think-time/)
  
@@ -171,6 +172,7 @@ Collection of Performance Tests related materials
  - [Blazemeter resources](https://www.blazemeter.com/resources)
  - [Dynatrace Online Performance Clinic](https://community.dynatrace.com/community/pages/viewpage.action?pageId=178101202)
     - [Dynatrace Performance Clinic on YouTube](https://www.youtube.com/playlist?list=PLqt2rd0eew1bmDn54E2_M2uvbhm_WxY_6)
+ - [MIT Video Lectures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2010/video-lectures/)
  
  ### Podcasts 📢
  - [PurePerformance on Dynatrace](https://www.dynatrace.com/community/pureperformance/)
@@ -179,6 +181,7 @@ Collection of Performance Tests related materials
  - [PerfBytes](http://www.perfbytes.com/)
    - [PerfBytes](https://www.spreaker.com/show/perfbytes)- PerfBytes hosted on spreaker
    - [News of The Damned](https://www.spreaker.com/show/news-of-the-damned) - analysis on globally crashing websites and system failures.Part of PerfBytes - hosted on spreaker.
+ - [the path to Performance](https://pathtoperf.com/)
  
  ### Workshops 🎓
  - [How To Build A Performance Testing Stack From Scratch](https://dojo.ministryoftesting.com/series/how-to-build-a-performance-testing-stack-from-scratch)
