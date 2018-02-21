@@ -186,3 +186,15 @@ Collection of Performance Tests related materials
  
  ### Workshops 🎓
  - [How To Build A Performance Testing Stack From Scratch](https://dojo.ministryoftesting.com/series/how-to-build-a-performance-testing-stack-from-scratch)
+ 
+ 
+ ## TOVERIFY
+ 
+DB and OS performance blogs and tools
+- https://www.percona.com/blog/
+- https://www.robustperception.io/blog/
+- https://smalldatum.blogspot.com/
+- http://www.brendangregg.com/blog/index.html
+- https://github.com/akopytov/sysbench
+- https://github.com/brianfrankcooper/YCSB/wiki
+- http://www.hammerdb.com/about.html
