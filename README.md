@@ -139,6 +139,8 @@ Collection of Performance Tests related materials
  - [Top 5 Java Profilers Revealed: Real world data with VisualVM, JProfiler, Java Mission Control, YourKit and Custom tooling](https://zeroturnaround.com/rebellabs/top-5-java-profilers-revealed-real-world-data-with-visualvm-jprofiler-java-mission-control-yourkit-and-custom-tooling/)
  - [List of Java Profilers: 3 Different Types and Why You Need All of Them](https://stackify.com/java-profilers-3-types/)
 
+## Devops Tools
+ - [Blazemeter's The Ultimate DevOps Tools Ecosystem Tutorial](https://www.blazemeter.com/blog/ultimate-devops-tools-ecosystem-tutorial-part-1)
 
 ## Library
 ### Books 📖
