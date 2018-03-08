@@ -133,7 +133,8 @@ Collection of Performance Tests related materials
  - [nmon - performance Monitor for Linux ](http://nmon.sourceforge.net/pmwiki.php)
  - [Overload𝛃 – performance analytics server](https://overload.yandex.net/login/?next=/)
  
- - [Service Monitoring Library](http://servicemonitoring.co/)
+ - [Service Monitoring Library](http://servicemonitoring.co/)\
+ - [influxdata time-series-platform](https://www.influxdata.com/time-series-platform/)- The Open Source Time Series Platform provides services and functionality to accumulate, analyze, and act on time series data. Telegraf, InfluxDB, Chronograf, and Kapacitor; collectively called the TICK Stack.
  
  ### Java Profilers
  - [A Guide to Java Profilers](http://www.baeldung.com/java-profilers)
