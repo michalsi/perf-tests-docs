@@ -93,6 +93,9 @@ Collection of Performance Tests related materials
  - [Running JMmeter test - jenkins pipeline tutorial](https://www.blazemeter.com/blog/running-jmeter-test-jenkins-pipeline-tutorial)
  - [Configure Jenkins to Run and Show JMeter Tests](http://www.baeldung.com/jenkins-and-jmeter)
  
+ #### JMeter extensions
+ - [ruby-jmeter](https://github.com/flood-io/ruby-jmeter) - DSL wrapper for JMeter scripts in Ruby
+ 
 ### Gatling
 - [Gatling](https://gatling.io/) - Scala
 - [Gatling introduction](http://james-willett.com/2017/08/gatling-introduction/)
