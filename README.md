@@ -44,9 +44,8 @@ Collection of Performance Tests related materials
 
  - [The art of reading performance test charts](https://blog.xceptance.com/2013/04/22/the-art-of-reading-performance-test-charts/)
  - [Performance Test Reporting Fundamentals](https://msdn.microsoft.com/en-us/library/bb924371.aspx)
-
+ - [JMETER RESULT ANALYSIS: THE ULTIMATE GUIDE](https://octoperf.com/blog/2017/10/19/how-to-analyze-jmeter-results/) - by octoperf
  - [Dashboard / report analyzer for load testing with JMeter](https://github.com/innogames/JMeter-Control-Center)
- 
  - [2 Techniques to Get JMeter Test Results in non-GUI mode](https://www.blazemeter.com/blog/top-two-techniques-get-jmeter-test-results-non-gui-mode)
  - [BlazeMeter’s Sense - service for storing and analysing performance test results](https://sense.blazemeter.com/)
  
@@ -175,6 +174,7 @@ Collection of Performance Tests related materials
  - [Xceptance](https://blog.xceptance.com/category/performance/)
  - [octoperf](https://octoperf.com/categories/load-testing/)
  - [performance wisdom](http://performanceengineeringwisdom.com/performancewisdomblog/)
+ - [perfmatrix](https://perfmatrix.blogspot.co.uk)
  
  ### Videos 📺
  - [Blazemeter resources](https://www.blazemeter.com/resources)
