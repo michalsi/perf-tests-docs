@@ -38,6 +38,8 @@ Collection of Performance Tests related materials
 - [SpeedCurve blog](https://speedcurve.com/blog/)
 - [Web berformance budget](https://www.keycdn.com/blog/web-performance-budget/)
 - [Sitespeed.io](https://www.sitespeed.io/) - "ueses real browsers, simulating real users connectivity and collect important user centric metrics like Speed Index and First Visual Render"
+- [PWMetrics](https://github.com/paulirish/pwmetrics) - Gather progressive web metrics for a url. CLI & lib
+- [Treo](https://treo.sh) - Treo is Lighthouse as a Service. It provides regression testing, geographical regions, custom networks, and integrations with GitHub & Slack. Treo is a paid product with plans for solo-developers and teams.
 
 
 ## Results Analysis
