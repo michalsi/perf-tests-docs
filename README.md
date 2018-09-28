@@ -175,6 +175,7 @@ Collection of Performance Tests related materials
  - [octoperf](https://octoperf.com/categories/load-testing/)
  - [performance wisdom](http://performanceengineeringwisdom.com/performancewisdomblog/)
  - [perfmatrix](https://perfmatrix.blogspot.co.uk)
+ - [Señor Performo](https://www.srperf.com/)
  
  ### Videos 📺
  - [Blazemeter resources](https://www.blazemeter.com/resources)
