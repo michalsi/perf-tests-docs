@@ -90,7 +90,7 @@ Collection of Performance Tests related materials
  
  #### Jmeter and CI
  - [JMeter – Continuous Performance Testing – JMeter + Maven](http://www.testautomationguru.com/jmeter-continuous-performance-testing-jmeter-maven/)
- - [Jmeter on docker](https://github.com/deliverymind/useful-stuff/tree/master/jmeter-on-docker)
+ - [Jmeter on docker](https://github.com/automatictester/exp/tree/master/docker-solutions/jmeter-on-docker)
  - [Running JMmeter test - jenkins pipeline tutorial](https://www.blazemeter.com/blog/running-jmeter-test-jenkins-pipeline-tutorial)
  - [Configure Jenkins to Run and Show JMeter Tests](http://www.baeldung.com/jenkins-and-jmeter)
  
