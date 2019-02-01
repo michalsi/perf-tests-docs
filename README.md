@@ -142,6 +142,8 @@ Collection of Performance Tests related materials
  - [Service Monitoring Library](http://servicemonitoring.co/)\
  - [influxdata time-series-platform](https://www.influxdata.com/time-series-platform/)- The Open Source Time Series Platform provides services and functionality to accumulate, analyze, and act on time series data. Telegraf, InfluxDB, Chronograf, and Kapacitor; collectively called the TICK Stack.
  
+ - [serputko/performance-testing-framework](https://github.com/serputko/performance-testing-framework) - Framework allows to perform load testing with Apache Jmeter, view application/server metrics in real-time with Grafana, analyze errors cause with detailed traces for failed requests, compare different test runs in scripted dashboard and perform frontend performance testing with sitespeed.io+webpagetest
+ 
  ### Java Profilers
  - [A Guide to Java Profilers](http://www.baeldung.com/java-profilers)
  - [Top 5 Java Profilers Revealed: Real world data with VisualVM, JProfiler, Java Mission Control, YourKit and Custom tooling](https://zeroturnaround.com/rebellabs/top-5-java-profilers-revealed-real-world-data-with-visualvm-jprofiler-java-mission-control-yourkit-and-custom-tooling/)
