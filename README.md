@@ -40,6 +40,9 @@ Collection of Performance Tests related materials
 - [Sitespeed.io](https://www.sitespeed.io/) - "ueses real browsers, simulating real users connectivity and collect important user centric metrics like Speed Index and First Visual Render"
 - [PWMetrics](https://github.com/paulirish/pwmetrics) - Gather progressive web metrics for a url. CLI & lib
 - [Treo](https://treo.sh) - Treo is Lighthouse as a Service. It provides regression testing, geographical regions, custom networks, and integrations with GitHub & Slack. Treo is a paid product with plans for solo-developers and teams.
+- [GTmetrix](https://gtmetrix.com/) - how well your site loads 
+- [http://yslow.org/](YSlow) - analyzes web pages and why they're slow based on Yahoo!'s rules
+
 
 
 ## Results Analysis
@@ -90,7 +93,7 @@ Collection of Performance Tests related materials
  
  #### Jmeter and CI
  - [JMeter – Continuous Performance Testing – JMeter + Maven](http://www.testautomationguru.com/jmeter-continuous-performance-testing-jmeter-maven/)
- - [Jmeter on docker](https://github.com/deliverymind/useful-stuff/tree/master/jmeter-on-docker)
+ - [Jmeter on docker](https://github.com/automatictester/exp/tree/master/docker-solutions/jmeter-on-docker)
  - [Running JMmeter test - jenkins pipeline tutorial](https://www.blazemeter.com/blog/running-jmeter-test-jenkins-pipeline-tutorial)
  - [Configure Jenkins to Run and Show JMeter Tests](http://www.baeldung.com/jenkins-and-jmeter)
  
@@ -100,6 +103,8 @@ Collection of Performance Tests related materials
 ### Gatling
 - [Gatling](https://gatling.io/) - Scala
 - [Gatling introduction](http://james-willett.com/2017/08/gatling-introduction/)
+- [Practical tutorial on starting with Gatling](https://theperformanceengineer.com/2016/11/29/load-testing-using-gatling-gatling-simulation-from-scratch/)
+- [Performance testing with gatling](https://automationrhapsody.com/performance-testing-with-gatling/) - series of posts including introduction and advanced usage of gatling
 
 ### Other tools
  - [wrk](https://github.com/wg/wrk) - HTTP benchmarking tool capable of generating significant load when run on a single multi-core CPU. 
@@ -140,6 +145,8 @@ Collection of Performance Tests related materials
  - [Service Monitoring Library](http://servicemonitoring.co/)\
  - [influxdata time-series-platform](https://www.influxdata.com/time-series-platform/)- The Open Source Time Series Platform provides services and functionality to accumulate, analyze, and act on time series data. Telegraf, InfluxDB, Chronograf, and Kapacitor; collectively called the TICK Stack.
  
+ - [serputko/performance-testing-framework](https://github.com/serputko/performance-testing-framework) - Framework allows to perform load testing with Apache Jmeter, view application/server metrics in real-time with Grafana, analyze errors cause with detailed traces for failed requests, compare different test runs in scripted dashboard and perform frontend performance testing with sitespeed.io+webpagetest
+ 
  ### Java Profilers
  - [A Guide to Java Profilers](http://www.baeldung.com/java-profilers)
  - [Top 5 Java Profilers Revealed: Real world data with VisualVM, JProfiler, Java Mission Control, YourKit and Custom tooling](https://zeroturnaround.com/rebellabs/top-5-java-profilers-revealed-real-world-data-with-visualvm-jprofiler-java-mission-control-yourkit-and-custom-tooling/)
@@ -177,6 +184,7 @@ Collection of Performance Tests related materials
  - [octoperf](https://octoperf.com/categories/load-testing/)
  - [performance wisdom](http://performanceengineeringwisdom.com/performancewisdomblog/)
  - [perfmatrix](https://perfmatrix.blogspot.co.uk)
+ - [Señor Performo](https://www.srperf.com/)
  
  ### Videos 📺
  - [Blazemeter resources](https://www.blazemeter.com/resources)
