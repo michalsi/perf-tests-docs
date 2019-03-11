@@ -27,6 +27,7 @@ Collection of Performance Tests related materials
 ### Perfrormance Testing in the team
 - [web performance culture/](https://speedcurve.com/blog/web-performance-culture/)
 - [Web Application Performance Checklist](https://github.com/antarestupin/performance-checklist)
+- [Top 10 Performance Optimisations](https://hackernoon.com/top-10-performance-optimisations-18cdad54155c)
 
 ### Collection of materials
 - [MS Visual Studio - Load Testing resources](https://docs.microsoft.com/en-us/vsts/load-test/)
