@@ -29,11 +29,11 @@ Example of conditional check that 'allowes us' to accept 400 response code:
 ```
 .check(
   status.saveAs("responseStatus"),
-  checkIf(session => session("responseStatus").as[String] == "200") {
+  checkIf(session => session("responseStatus").as[Int] == 200) {
     substring(usuallHeader).exists
     currentLocation.is(baseUrl + "/applications/list?status=submitted")
   },
-  checkIf(session => session("responseStatus").as[String] == "400") {
+  checkIf(session => session("responseStatus").as[Int] == 400) {
     substring(errorHeader).exists
     currentLocation.is(baseUrl + "/otherplace")
   }
