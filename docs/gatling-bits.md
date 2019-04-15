@@ -39,3 +39,32 @@ Example of conditional check that 'allowes us' to accept 400 response code:
   }
 )
 ```
+
+## Extract optional element from the response
+
+In case `magic_button` magic button appears only in certain situations 
+
+```
+  val openWorksRecord =
+    exec(http("GET /works/{workRefNumber}")
+      .get("/works/${workRefNumber}")
+      .check(
+        substring("${workRefNumber}").exists,
+        css("a[id*='magic_button']").find.optional.saveAs("magicButton"),
+      ))
+```
+
+Then later drive the logic based on availability of magic button
+
+
+```
+.doIf(session => session("magicButton").asOption[String].nonEmpty) {
+                exec(session => {
+                  session.set("activeButton", session("magicButton").as[String])
+                })
+                  .exec(
+                    DashboardPage.open,
+                  )
+              }
+          }
+```
