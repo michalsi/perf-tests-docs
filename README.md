@@ -106,6 +106,7 @@ Collection of Performance Tests related materials
 - [Gatling introduction](http://james-willett.com/2017/08/gatling-introduction/)
 - [Practical tutorial on starting with Gatling](https://theperformanceengineer.com/2016/11/29/load-testing-using-gatling-gatling-simulation-from-scratch/)
 - [Performance testing with gatling](https://automationrhapsody.com/performance-testing-with-gatling/) - series of posts including introduction and advanced usage of gatling
+- [Load testing: Gatling “Tips & Tricks”](https://medium.com/@vcomposieux/load-testing-gatling-tips-tricks-47e829e5d449)
 
 ### Other tools
  - [wrk](https://github.com/wg/wrk) - HTTP benchmarking tool capable of generating significant load when run on a single multi-core CPU. 
