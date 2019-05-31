@@ -29,6 +29,7 @@ Collection of Performance Tests related materials
 - [web performance culture/](https://speedcurve.com/blog/web-performance-culture/)
 - [Web Application Performance Checklist](https://github.com/antarestupin/performance-checklist)
 - [Top 10 Performance Optimisations](https://hackernoon.com/top-10-performance-optimisations-18cdad54155c)
+- [How we load tested our bank before our £20 million crowdfunding round](https://monzo.com/blog/2019/01/15/crowdfunding-technology-testing/) - Monzo story about creating their own perfromance testing sollution
 
 ### Collection of materials
 - [MS Visual Studio - Load Testing resources](https://docs.microsoft.com/en-us/vsts/load-test/)
