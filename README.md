@@ -1,4 +1,4 @@
-# perf-tests-docs 🚀
+# Performance tests docs 🚀
 Collection of Performance Tests related materials 
 
 ## Performance Testing Theory
@@ -158,6 +158,9 @@ Collection of Performance Tests related materials
 
 ## Devops Tools
  - [Blazemeter's The Ultimate DevOps Tools Ecosystem Tutorial](https://www.blazemeter.com/blog/ultimate-devops-tools-ecosystem-tutorial-part-1)
+ 
+## SQL
+- [https://use-the-index-luke.com/sql/preface] - In depth description of SQL Data Bases with impact on performance
 
 ## Library
 ### Books 📖
