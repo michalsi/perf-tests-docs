@@ -35,6 +35,7 @@ Collection of Performance Tests related materials
 ### Collection of materials
 - [MS Visual Studio - Load Testing resources](https://docs.microsoft.com/en-us/vsts/load-test/)
 - [performance testing mindmap + list of resources](https://github.com/mgasiorowski/performance_testing_mindmap)
+- [Google's developers web performance guildines](https://developers.google.com/web/fundamentals/performance/why-performance-matters) - Includes  a user-centric performance RAIL model
 
 ## Client side perfrormance
 
