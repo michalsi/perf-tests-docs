@@ -24,7 +24,7 @@ Collection of Performance Tests related materials
 - [Kainos ODP - Logging & Performance testing](https://github.com/KainosSoftwareLtd/gov-odp/wiki/Logging-&-Performance-testing)
 - [A Practical Guide to Performance Testing](./docs/WP_-_A_Practical_Guide_to_Performance_Testing.pdf) by Neotys
 - [Planning for High Concurrency Load Tests](https://flood.io/blog/planning-for-high-concurrency-load-tests-with-jmeter/) How to define concurency in test scripts
-- [APDEX score guide](https://raygun.com/blog/apdex-score-guide/)
+- [APDEX score guide](https://raygun.com/blog/apdex-score-guide/) - Application Performance Index [Apdex](https://www.apdex.org/overview.html) explained
 
 ### Perfrormance Testing in the team
 - [web performance culture/](https://speedcurve.com/blog/web-performance-culture/)
