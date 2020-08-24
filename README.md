@@ -39,6 +39,7 @@ Collection of Performance Tests related materials
 
 ## Client side perfrormance
 
+- [Web Vitals](https://web.dev/vitals/)- Google's Core Web Vitals 2020
 - [Rendering Metrics](https://speedcurve.com/blog/rendering-metrics/)
 - [SpeedCurve blog](https://speedcurve.com/blog/)
 - [Web berformance budget](https://www.keycdn.com/blog/web-performance-budget/)
