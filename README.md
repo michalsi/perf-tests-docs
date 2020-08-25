@@ -115,15 +115,19 @@ Collection of Performance Tests related materials
 - [Load testing: Gatling “Tips & Tricks”](https://medium.com/@vcomposieux/load-testing-gatling-tips-tricks-47e829e5d449)
 - [Gatling cheatsheet](https://worldline.github.io/gatling-cheatsheet/#gatling-cheatsheet)
 
+### k6
+ - [k6](https://k6.io/) - "A developer-centric load testing tool" - Scripting in Javascript ES2015/ES6
+ - https://github.com/loadimpact/postman-to-k6 - convert Postman collections to k6
+ - [Beginner’s Guide to Load Testing with k6](https://mostafa.dev/blog/beginner-s-guide-to-load-testing-with-k6-part-1) -  a series of posts on how to use k6 and performance testing in general.
+ - [Shifting Performance Testing to the left with k6](https://www.mariedrake.com/post/shifting-performance-testing-to-the-left-with-k6)
+ - [Lowering Performance Testing Barriers Using k6 with Robin Gustafsson](https://testguild.com/podcast/automation/211-performance-testing-k6-robin-gustafsson/) - podast
+
 ### Other tools
  - [wrk](https://github.com/wg/wrk) - HTTP benchmarking tool capable of generating significant load when run on a single multi-core CPU. 
  - [Taurus](https://github.com/Blazemeter/taurus)
     - [gettaurus](http://gettaurus.org/)
  - [Locust](https://locust.io/) - python
-
  - [Artillery](https://artillery.io/) - Javascript
- - [k6](https://k6.io/) - "A developer-centric load testing tool" - Scripting in Javascript ES2015/ES6
-    - https://github.com/loadimpact/postman-to-k6 - convert Postman collections to k6
  - [PerfCake](http://perfcake.org/) - 
  - [Yandex.Tank](https://github.com/yandex/yandex-tank) - extensible open source load testing tool for linux users. Written in python
 
@@ -212,6 +216,9 @@ Collection of Performance Tests related materials
    - [PerfBytes](https://www.spreaker.com/show/perfbytes)- PerfBytes hosted on spreaker
    - [News of The Damned](https://www.spreaker.com/show/news-of-the-damned) - analysis on globally crashing websites and system failures.Part of PerfBytes - hosted on spreaker.
  - [the path to Performance](https://pathtoperf.com/)
+ 
+ #### Episodes
+  - [Simon Aronsson: A code-first approach to performance engineering](https://vimeo.com/422130670/2eb6089065) - podcast
  
  ### Workshops 🎓
  - [How To Build A Performance Testing Stack From Scratch](https://dojo.ministryoftesting.com/series/how-to-build-a-performance-testing-stack-from-scratch)
