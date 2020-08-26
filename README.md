@@ -159,11 +159,14 @@ Collection of Performance Tests related materials
  
  - [serputko/performance-testing-framework](https://github.com/serputko/performance-testing-framework) - Framework allows to perform load testing with Apache Jmeter, view application/server metrics in real-time with Grafana, analyze errors cause with detailed traces for failed requests, compare different test runs in scripted dashboard and perform frontend performance testing with sitespeed.io+webpagetest
  
- ### Java Profilers
+ ### [Java] Profilers
  - [A Guide to Java Profilers](http://www.baeldung.com/java-profilers)
  - [Top 5 Java Profilers Revealed: Real world data with VisualVM, JProfiler, Java Mission Control, YourKit and Custom tooling](https://zeroturnaround.com/rebellabs/top-5-java-profilers-revealed-real-world-data-with-visualvm-jprofiler-java-mission-control-yourkit-and-custom-tooling/)
  - [List of Java Profilers: 3 Different Types and Why You Need All of Them](https://stackify.com/java-profilers-3-types/)
-
+ - [Java in Flames](https://netflixtechblog.com/java-in-flames-e763b3d32166)
+ - [Flame Graphs](http://www.brendangregg.com/flamegraphs.html)
+ - [The Flame Graph](https://queue.acm.org/detail.cfm?id=2927301) - This visualization of software execution
+ 
 ## Devops Tools
  - [Blazemeter's The Ultimate DevOps Tools Ecosystem Tutorial](https://www.blazemeter.com/blog/ultimate-devops-tools-ecosystem-tutorial-part-1)
  
