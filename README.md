@@ -1,5 +1,5 @@
 # Performance tests docs 🚀
-Collection of Performance Tests related materials 
+Collection of links to materials related to performance testing.
 
 ## Performance Testing Theory
 
@@ -47,6 +47,7 @@ Collection of Performance Tests related materials
 - [Treo](https://treo.sh) - Treo is Lighthouse as a Service. It provides regression testing, geographical regions, custom networks, and integrations with GitHub & Slack. Treo is a paid product with plans for solo-developers and teams.
 - [GTmetrix](https://gtmetrix.com/) - how well your site loads 
 - [http://yslow.org/](YSlow) - analyzes web pages and why they're slow based on Yahoo!'s rules
+- [on layout & Web Performance](https://kellegous.com/j/2013/01/26/layout-performance/) - reflow or layout thrashing explanation
 
 
 
