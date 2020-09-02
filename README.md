@@ -38,6 +38,7 @@ Collection of links to materials related to performance testing.
 
 ## Client side perfrormance
 
+- [W3C Navigation Timing Level 2](https://www.w3.org/TR/navigation-timing-2/) Specification for web applications to access the complete timing information for navigation of a document.
 - [Web Vitals](https://web.dev/vitals/)- Google's Core Web Vitals 2020
 - [Rendering Metrics](https://speedcurve.com/blog/rendering-metrics/)
 - [SpeedCurve blog](https://speedcurve.com/blog/)
