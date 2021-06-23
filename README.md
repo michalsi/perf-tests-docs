@@ -180,6 +180,7 @@ Collection of links to materials related to performance testing.
 ### Books 📖
 #### Online
  - [Performance Testing Guidance for Web Applications](https://msdn.microsoft.com/en-us/library/bb924375.aspx)
+ - [High Performance Browser Networking](https://hpbn.co/)
 
 #### Paperback 
  - [Java Performance](https://books.google.co.uk/books/about/Java_Performance.html?id=7mktLCw0E2IC&source=kp_cover&redir_esc=y)
